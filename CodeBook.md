@@ -13,7 +13,7 @@ In the script, for every variable in the followin table we have 3 different vari
   
   <tr>
   <td>ActivityName</td>
-  <td></td>
+  <td>Is the name of the activity performed by the volunteers, it assumes 6 values: WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING</td>
   </tr>
   
   <tr>
