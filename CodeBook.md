@@ -30,6 +30,7 @@ Below the table with the description of the variables. But before explain the va
   </tr>
  </table>
 
+
 In the script, for every variable in the followin table we have 3 different variable for every dimension (X, Y and Z) of the phone, either for the mean and for the standard deviation:
 
 <table>
@@ -84,6 +85,7 @@ In the script, for every variable in the followin table we have 3 different vari
   <td>Numeric, measuring the mean of frequency domain body gyroscope</td>
   </tr>
 </table>
+  
   
 For the following table, instead, in the script there are only two variable for each row, the mean and the standard deviation:
 <table>
