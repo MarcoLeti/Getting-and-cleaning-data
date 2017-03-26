@@ -8,12 +8,11 @@ The assignment requires that the following 5 points are completed:
 4. Appropriately labels the data set with descriptive variable names.
 5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
-The repository contains 5 files:
+The repository contains 4 files:
 1. README.md: describing the repository and giving some preliminary information of the analysis done
 2. CodeBook.md: containing the description of the variables of the files created from the script
 3. run_analysis.R: containing the script I developed in R to clean the required dataset.
-4. myData.txt: is the dataset created by the script and required by the points from 1 to 4 of the coursera assignment
-5. myData.txt: is the second dataset created by the script and required by the point 5 of the coursera assignment
+4. myDataMean.txt: is the dataset created by the script and required by the point 5 of the coursera assignment
 
 In general, a dataset is tidy when complies with the following 3 rules:
 1. Each variable forms a column,
