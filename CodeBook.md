@@ -28,6 +28,7 @@ Below the table with the description of the variables. But before explain the va
   <td>Mag</td>
   <td>A measurement of the magnitude of the Euclidean norm</td>
   </tr>
+ </table>
 
 In the script, for every variable in the followin table we have 3 different variable for every dimension (X, Y and Z) of the phone, either for the mean and for the standard deviation:
 
