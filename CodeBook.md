@@ -1,5 +1,5 @@
 # The Dataset Code Book
-The purpose of this file is to describe the variables present in the files "myData.txt" and "myDataMean.txt", output of the R script created for the assignment of coursera Data science specialization, course 3, getting and cleaning data.
+The purpose of this file is to describe the variables present in the files "myDataMean.txt", output of the R script created for the assignment of coursera Data science specialization, course 3, getting and cleaning data.
 
 Below the table with the description of the variables. But before explain the variable is important to describe the following words:
 
