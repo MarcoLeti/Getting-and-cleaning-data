@@ -1,7 +1,9 @@
 # The Dataset Code Book
 The purpose of this file is to describe the variables present in the files "myData.txt" and "myDataMean.txt", output of the R script created for the assignment of coursera Data science specialization, course 3, getting and cleaning data.
 
-Below the table with the description of the variables:
+Below the table with the description of the variables.
+
+In the script, for every variable in the followin table we have 3 different variable for every dimension (X, Y and Z) of the phone, either for the mean and for the standard deviation:
 
 <table>
   <tr>
@@ -16,68 +18,43 @@ Below the table with the description of the variables:
   
   <tr>
   <td>TimeBodyAcc</td>
-  <td></td>
+  <td>Numeric variable measuring the mean of time domain body acceleration</td>
   </tr>
   
   <tr>
   <td>TimeGravityAcc</td>
-  <td></td>
+  <td>Numeric variable measuring the mean of time domain gravity acceleration</td>
   </tr>
   
   <tr>
   <td>TimeBodyAccJerk</td>
-  <td></td>
+  <td>Numeric variable measuring the mean of time domain body acceleration jerk</td>
   </tr>
   
   
   <tr>
   <td>TimeBodyGyro</td>
-  <td></td>
+  <td>Numeric variable measuring the mean of time domain body gyroscope</td>
   </tr>
   
   <tr>
   <td>TimeBodyGyroJerk</td>
-  <td></td>
-  </tr>
-  
-  <tr>
-  <td>TimeBodyAccMag</td>
-  <td></td>
-  </tr>
-  
-  <tr>
-  <td>TimeGravityAccMag</td>
-  <td></td>
-  </tr>
-  
-  <tr>
-  <td>TimeBodyAccJerkMag</td>
-  <td></td>
-  </tr>
-  
-  <tr>
-  <td>TimeBodyGyroMag</td>
-  <td></td>
-  </tr>
-  
-  <tr>
-  <td>TimeBodyGyroJerkMag</td>
-  <td></td>
+  <td>Numeric, measuring the mean of time domain body gyroscope jerk</td>
   </tr>
   
   <tr>
   <td>FreqBodyAcc</td>
-  <td></td>
+  <td>Numeric, measuring the mean of frequency domain body acceleration</td>
   </tr>
   
   <tr>
   <td>FreqBodyAccJerk</td>
-  <td></td>
+  <td>Numeric variable measuring the mean of frequency domain body acceleration jerk</td>
   </tr>
   
   <tr>
   <td>FreqBodyGyro</td>
-  <td></td>
+  <td>Numeric variable measuring the mean of frequency domain body gyroscope</td>
   </tr>
   
   <tr>
@@ -110,7 +87,30 @@ Below the table with the description of the variables:
   <td></td>
   </tr>
   
+    <tr>
+  <td>TimeBodyAccMag</td>
+  <td></td>
+  </tr>
   
+  <tr>
+  <td>TimeGravityAccMag</td>
+  <td></td>
+  </tr>
+  
+  <tr>
+  <td>TimeBodyAccJerkMag</td>
+  <td></td>
+  </tr>
+  
+  <tr>
+  <td>TimeBodyGyroMag</td>
+  <td></td>
+  </tr>
+  
+  <tr>
+  <td>TimeBodyGyroJerkMag</td>
+  <td></td>
+  </tr>
   
 
 </table>
