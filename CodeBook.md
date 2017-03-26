@@ -18,7 +18,7 @@ In the script, for every variable in the followin table we have 3 different vari
   
   <tr>
   <td>TimeBodyAcc</td>
-  <td>Numeric variable measuring the mean of time domain body acceleration</td>
+  <td>Numeric, measuring the mean of time domain body acceleration</td>
   </tr>
   
   <tr>
